@@ -1,0 +1,31 @@
+.header .carlos{
+    background-color: #40686A !important;
+}
+
+.header  a{
+    color: #2F1812;
+    font-size: x-large;
+}
+.header .logo:hover{
+    color: #2F1812;
+}
+.header  a:hover{
+    color: white;
+}
+
+/*
+    COLORES PARA UTILIZAR EN LA PAGINA
+
+    MARRONCITO: #B78338
+
+    BORDO:   #915C4C
+
+    CELESTE: #40686A
+
+    MARRON OSCURO: #2F1812
+
+
+
+
+
+*/
